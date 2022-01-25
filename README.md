@@ -17,12 +17,12 @@ USERNAME = ⚜[AGORA](https://github.com/AGORASWAMY_PROFESSOR)
 <p><a href=https://github.com/SHANTH-OP/AGORA-USERBOT> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
-_______________String_Session__________________________
+
 
 [![String](https://te.legra.ph/file/d8ba77811625796729b82.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
-Professor_Session__________________________________________
+
 - Click On Generate String
 - Then Click On Green Run Button.
 - Wait for a while then fill the details.
