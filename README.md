@@ -31,18 +31,6 @@
 
 # <p align="center"> Do U Face Any Problem Contact me Through Telegram
 
-# <p align="center"> To Get Details Of StringSession Follow Step:
-# <p align="center">  Go To Telegram And Search @UseTGXBot
-# <p align="center">  Click Start
-# <p align="center">  Send Ur Phone Number To @UseTGXBot
-# <p align="center">  U Received Code From Telegram Like This=VGFK0rHbzaF
-# <p align="center">  Copy Ur Code
-# <p align="center">  Paste Ur Code in @UseTGXBot
-# <p align="center">  U Received APP ID
-# <p align="center">  Now Run StringSession Given Below:
-
-
-
 # <p align="center"> 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 𝗚𝗢𝗘𝗦 𝗧𝗢 [𝗞𝗔𝗩𝗬𝗔𝗦𝗛𝗔𝗔𝗡](t.me/AGORASWAMY_PROFESSOR)
 
 • LICENSE •[𝗟𝗜𝗖𝗘𝗡𝗦𝗘](https://github.com/SHANTH-OP/AGORA-USERBOT/blob/master/LICENSE)
