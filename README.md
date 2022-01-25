@@ -18,7 +18,7 @@ __________COMING_SOON_______
 
 _______________String_Session__________________________
 
-[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
+[![String](https://te.legra.ph/file/d8ba77811625796729b82.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
 Professor_Session__________________________________________
