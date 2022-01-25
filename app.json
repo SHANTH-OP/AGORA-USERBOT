@@ -1,7 +1,7 @@
 {
-  "name": "(PYTHONBOT-V9)",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N DARK-LEGEND-PRO Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/cfa6b3f520b9677168d8c.jpg",
+  "name": "(AGORA USERBOT)",
+  "description": "𝙾𝙽𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙿𝙻𝙰𝚃𝙵𝙾𝚁𝙼, 𝚂𝙿𝙴𝙲𝙸𝙰𝙻𝙻𝚈 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝙰𝙶𝙾𝚁𝙰 𝚆𝙸𝚃𝙷 𝙰𝚃𝚃𝙸𝚃𝚄𝙳𝙴 𝙰𝙽𝙳 𝙷𝙰𝚁𝙳 𝙳𝙴𝙳𝙸𝙲𝙰𝚃𝙸𝙾𝙽 ... ❤ ",
+  "logo": "https://te.legra.ph/file/2b577f871106d37276c41.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V9/",
-  "website": "https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V9/",
-  "success_url": "https://t.me/Python_Userbot_Support_Pro",
+  "repository": "https://github.com/SHANTH-OP/AGORA-USERBOT/",
+  "website": "https://github.com/SHANTH-OP/AGORA-USERBOT/",
+  "success_url": "https://t.me/AGORA_SPAM_OFFICIAL",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,22 +24,22 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND-PRO User",
-      "value": "LEGEND-PRO",
+      "value": "PROFESSOR AGORA",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
-      "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
+      "value": "AGORA BOT IS ALIVE",
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support_Pro",
+      "value": "@AGORA_SPAM_OFFICIAL",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Updata",
+      "value": "@AGORABOT_INFO",
       "required": false
     },
     "EXTRA_PLUGIN": {
@@ -57,7 +57,7 @@
       "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
       "required": true
     },
-    "PYTHON_PIC": {
+    "AGORA_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
       "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
       "required": true
