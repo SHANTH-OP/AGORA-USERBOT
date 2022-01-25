@@ -17,11 +17,6 @@
 
 # <p align="center"> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANTH-OP/AGORA-USERBOT)
 
-# <p><a href=https://github.com/SHANTH-OP/AGORA-USERBOT> <imgsrc="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
-
-
-
-
 # <p align="center"> [![String](https://te.legra.ph/file/d8ba77811625796729b82.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
 # <p align="center"> [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
