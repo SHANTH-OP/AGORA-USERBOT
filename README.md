@@ -47,7 +47,7 @@
 
 • LICENSE •[𝗟𝗜𝗖𝗘𝗡𝗦𝗘](https://github.com/SHANTH-OP/AGORA-USERBOT/blob/master/LICENSE)
 • 💡 CREDITS 💞 •
-[𝗔𝗚𝗢𝗥𝗔 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥](https://github.com/PROFESSOR-AGORA)
+[𝗔𝗚𝗢𝗥𝗔](https://github.com/PROFESSOR-AGORA)
 ![𝗜𝗠𝗔𝗚𝗘](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
 ![𝗜𝗠𝗔𝗚𝗘](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
 ![𝗜𝗠𝗔𝗚𝗘](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
