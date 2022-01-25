@@ -17,7 +17,7 @@
 
 # <p align="center"> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANTH-OP/AGORA-USERBOT)
 
-# <p><a href=https://github.com/SHANTH-OP/AGORA-USERBOT> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+# <p><a href=https://github.com/SHANTH-OP/AGORA-USERBOT> <imgsrc="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
 
