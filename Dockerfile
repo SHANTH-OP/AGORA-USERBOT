@@ -1,6 +1,6 @@
 
 #clonning repo 
-RUN git clone https://github.com/LEGEND-LX/PYTHONUSERBOT.git /root/userbot
+RUN git clone https://github.com/SHANTH-OP/AGORA-BOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
