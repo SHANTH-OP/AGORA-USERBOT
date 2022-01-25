@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $PYTHON_REPO == "PYTHONBOT" ]]
+    if [[ $AGORA_REPO == "AGORA-USERBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA" | base64 -d
-    elif [[ $PYTHON_REPO == "PYTHONBOT" ]]
+    elif [[ $AGORA_REPO == "AGORA-USERBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA" | base64 -d
-    elif [[ $PYTHON_REPO =~ $regex ]]
+    elif [[ $AGORA_REPO =~ $regex ]]
     then
-        if [[ $PYTHON_REPO_BRANCH ]]
+        if [[ $AGORA_REPO_BRANCH ]]
         then
-            echo "${PYTHON_REPO}/archive/${PYTHON_REPO_BRANCH}.zip"
+            echo "${AGORA_REPO}/archive/${AGORA_REPO_BRANCH}.zip"
         else
-            echo "${PYTHON_REPO}/archive/master.zip"
+            echo "${AGORA_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA" | base64 -d
@@ -26,20 +26,20 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="PYTHONBOT.zip"
+    zippath="AGORA-USERBOT.zip"
     echo "  Downloading PythonBot V9.O.8 Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    PYTHONPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    AGORAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  PythonBot V9.O.8 Cleaning.."
+    echo "  AGORA USERBOT V9.O.8 Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $PYTHONPATH
-    echo "    🐍ѕταяτιиg ѕмοοτнєѕτ Python𝕭ø𝖙 V9.O.8🐍     "
+    cd $AGORAPATH
+    echo "    ☘️ѕταяτιи𝙶 ѕмοοτнєѕτ 𝙰𝙶𝙾𝚁𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 V9.O.8☘️     "
     echo "
-    PYTHONBOT
+    AGORA-USERBOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
