@@ -1,7 +1,7 @@
 # ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
 
 
-# {DEVELOPER}By = [AGORA BOTS](http://t.me/AGORABOT_INFO)
+# {DEVELOPER} By = [AGORA BOTS](http://t.me/AGORABOT_INFO)
 
 
 # TELEGRAM'S FASTEST USERBOT
