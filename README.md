@@ -21,10 +21,10 @@
 # <p align="center"> [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
 
-# <p align="center"> - Click On Generate String
-# <p align="center"> - Then Click On Green Run Button.
-# <p align="center"> - Wait for a while then fill the details.
-# <p align="center"> - String will be saved in your Saved Message.
+# <p align="center">  Click On Generate String
+# <p align="center">  Then Click On Green Run Button.
+# <p align="center">  Wait for a while then fill the details.
+# <p align="center">  String will be saved in your Saved Message.
 # <p align="center"> TO HOST AGORA LOCALLY OR ON ANY OTHER VPS CLICK BELOW
 
 # <p align="center"> ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
@@ -32,14 +32,14 @@
 # <p align="center"> Do U Face Any Problem Contact me Through Telegram
 
 # <p align="center"> To Get Details Of StringSession Follow Step:
-# <p align="center"> - Go To Telegram And Search @UseTGXBot
-# <p align="center"> - Click Start
-# <p align="center"> - Send Ur Phone Number To @UseTGXBot
-# <p align="center"> - U Received Code From Telegram Like This=VGFK0rHbzaF
-# <p align="center"> - Copy Ur Code
-# <p align="center"> - Paste Ur Code in @UseTGXBot
-# <p align="center"> - U Received APP ID
-# <p align="center"> - Now Run StringSession Given Below:
+# <p align="center">  Go To Telegram And Search @UseTGXBot
+# <p align="center">  Click Start
+# <p align="center">  Send Ur Phone Number To @UseTGXBot
+# <p align="center">  U Received Code From Telegram Like This=VGFK0rHbzaF
+# <p align="center">  Copy Ur Code
+# <p align="center">  Paste Ur Code in @UseTGXBot
+# <p align="center">  U Received APP ID
+# <p align="center">  Now Run StringSession Given Below:
 
 
 
