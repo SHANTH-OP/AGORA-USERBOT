@@ -4,16 +4,16 @@
 </p>
 
 
-# {DEVELOPER} BY = [AGORA BOTS](http://t.me/AGORABOT_INFO)
+# <p align="center"> {DEVELOPER} BY = [AGORA BOTS](http://t.me/AGORABOT_INFO)
 
 
-# TELEGRAM'S FASTEST USERBOT
+# <p align="center"> TELEGRAM'S FASTEST USERBOT
 
-# ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
-r
-ITS ALL CREDITS GOES TO AGORA PROFESSOR. 
-USERNAME = [AGORA](https://github.com/AGORASWAMY_PROFESSOR)
-<h3> ∂єρℓογ το нєяοκυ </h3>
+# <p align="center"> ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
+
+<p align="center"> ITS ALL CREDITS GOES TO AGORA PROFESSOR. 
+<p align="center"> USERNAME = [AGORA](https://github.com/AGORASWAMY_PROFESSOR)
+<p align="center"> <h1> ∂єρℓογ το нєяοκυ </h1>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANTH-OP/AGORA-USERBOT)
 
