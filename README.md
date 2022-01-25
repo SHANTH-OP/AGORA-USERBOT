@@ -20,13 +20,6 @@
 # <p align="center"> [![String](https://te.legra.ph/file/d8ba77811625796729b82.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
 # <p align="center"> [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
-
-# <p align="center">  Click On Generate String
-# <p align="center">  Then Click On Green Run Button.
-# <p align="center">  Wait for a while then fill the details.
-# <p align="center">  String will be saved in your Saved Message.
-# <p align="center"> TO HOST AGORA LOCALLY OR ON ANY OTHER VPS CLICK BELOW
-
 # <p align="center"> ☘️ [𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://t.me/AGORA_SPAM_OFFICIAL) ☘️
 
 # <p align="center"> Do U Face Any Problem Contact me Through Telegram
