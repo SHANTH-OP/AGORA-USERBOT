@@ -1,5 +1,8 @@
 # ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
-(https://te.legra.ph/file/510392677beab987353b4.jpg)
+<p align="center">
+  <img src="https://te.legra.ph/file/510392677beab987353b4.jpg">
+</p>
+
 
 # {DEVELOPER} BY = [AGORA BOTS](http://t.me/AGORABOT_INFO)
 
