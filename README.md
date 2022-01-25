@@ -9,7 +9,7 @@
 # ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
 r
 ITS ALL CREDITS GOES TO AGORA PROFESSOR. 
-USERNAME = ⚜[AGORA](https://github.com/AGORASWAMY_PROFESSOR)
+USERNAME = [AGORA](https://github.com/AGORASWAMY_PROFESSOR)
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANTH-OP/AGORA-USERBOT)
