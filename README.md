@@ -21,33 +21,33 @@
 # <p align="center"> [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
 
-- Click On Generate String
-- Then Click On Green Run Button.
-- Wait for a while then fill the details.
- - String will be saved in your Saved Message.
-TO HOST AGORA LOCALLY OR ON ANY OTHER VPS CLICK BELOW
+# <p align="center"> - Click On Generate String
+# <p align="center"> - Then Click On Green Run Button.
+# <p align="center"> - Wait for a while then fill the details.
+# <p align="center"> - String will be saved in your Saved Message.
+# <p align="center"> TO HOST AGORA LOCALLY OR ON ANY OTHER VPS CLICK BELOW
 
 # <p align="center"> ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
 
 Do U Face Any Problem Contact me Through Telegram
 
-To Get Details Of StringSession Follow Step:
-- Go To Telegram And Search @UseTGXBot
-- Click Start
-- Send Ur Phone Number To @UseTGXBot
-- U Received Code From Telegram Like This=VGFK0rHbzaF
-- Copy Ur Code
-- Paste Ur Code in @UseTGXBot
-- U Received APP ID
-- Now Run StringSession Given Below:
-StringSession
-String
+# <p align="center"> To Get Details Of StringSession Follow Step:
+# <p align="center"> - Go To Telegram And Search @UseTGXBot
+# <p align="center"> - Click Start
+# <p align="center"> - Send Ur Phone Number To @UseTGXBot
+# <p align="center"> - U Received Code From Telegram Like This=VGFK0rHbzaF
+# <p align="center"> - Copy Ur Code
+# <p align="center"> - Paste Ur Code in @UseTGXBot
+# <p align="center"> - U Received APP ID
+# <p align="center"> - Now Run StringSession Given Below:
 
-Contact Me
 
-• LICENSE •[license](https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V9.0.8/blob/master/LICENSE)
+
+# <p align="center"> 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 𝗚𝗢𝗘𝗦 𝗧𝗢 [𝗞𝗔𝗩𝗬𝗔𝗦𝗛𝗔𝗔𝗡](t.me/AGORASWAMY_PROFESSOR)
+
+• LICENSE •[license](https://github.com/SHANTH-OP/AGORA-USERBOT/blob/master/LICENSE)
 • 💡 CREDITS 💞 •
-[⚜LEGEND-LX](https://github.com/LEGEND-LX)
+[⚜LEGEND-LX](https://github.com/PROFESSOR-AGORA)
 ![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
