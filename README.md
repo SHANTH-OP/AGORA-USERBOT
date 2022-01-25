@@ -8,7 +8,7 @@
 
 # ☘️ 𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ☘️
 r
-ITS ALL CREDITS GOES TO LEGEND-LX. 
+ITS ALL CREDITS GOES TO AGORA PROFESSOR. 
 USERNAME = ⚜[AGORA](https://github.com/AGORASWAMY_PROFESSOR)
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
