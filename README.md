@@ -3,8 +3,11 @@
   <img src="https://te.legra.ph/file/510392677beab987353b4.jpg">
 </p>
 <p align="center">
-  <imp src ="https://te.legra.ph/file/286ebee514fc25d5d83c9.jpg">
+  <img src="https://te.legra.ph/file/286ebee514fc25d5d83c9.jpg">
 </p>
+
+ 
+
   
 # <p align="center"> {DEVELOPER} BY = [AGORA BOTS](http://t.me/AGORABOT_INFO)
 
