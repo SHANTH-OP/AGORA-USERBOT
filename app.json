@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-PRO User",
+      "description": "Fill your Full name. By default it is PROFESSOR AGORA User",
       "value": "PROFESSOR AGORA",
       "required": false
     },
@@ -164,7 +164,7 @@
       "value": ""
     },
     "NO_OF_BUTTONS": {
-      "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
+      "description": " Set The Amount Of Buttons Displayed In agora Command default 7",
       "value": "7",
       "required": true
     },
