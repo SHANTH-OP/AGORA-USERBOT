@@ -79,7 +79,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "𝙷𝙴𝚈 , 𝙸 𝙰𝙼 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃 𝙾𝙵 {ALIVE_NAME} , 𝚂𝙾 𝙿𝙻𝙴𝙰𝚂𝙴 𝙳𝙾𝙽𝚃 𝚂𝙿𝙰𝙼 𝙷𝙴𝚁𝙴 𝙾𝚃𝙷𝙴𝚁𝚆𝙸𝚂𝙴 𝙹𝚄𝚂𝚃 𝚅𝙸𝚂𝙸𝚃 𝚃𝙷𝙴 @AGORABOT_INFO 𝚘𝚛 @AGORA_USERBOT 𝚘𝚛 @AGORA_SPAM_OFFICIAL 𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄
+      "value": "𝙷𝙴𝚈 , 𝙸 𝙰𝙼 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃 𝙾𝙵 {ALIVE_NAME} , 𝚂𝙾 𝙿𝙻𝙴𝙰𝚂𝙴 𝙳𝙾𝙽𝚃 𝚂𝙿𝙰𝙼 𝙷𝙴𝚁𝙴 𝙾𝚃𝙷𝙴𝚁𝚆𝙸𝚂𝙴 𝙹𝚄𝚂𝚃 𝚅𝙸𝚂𝙸𝚃 𝚃𝙷𝙴 @AGORABOT_INFO 𝚘𝚛 @AGORA_USERBOT 𝚘𝚛 @AGORA_SPAM_OFFICIAL 𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
