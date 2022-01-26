@@ -14,7 +14,7 @@
 
 # <p align="center"> TELEGRAM'S FASTEST USERBOT
 
-# <p align="center"> ☘️ [𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://github.com/AGORA_SPAM_OFFICIAL) ☘️
+# <p align="center"> ☘️ [𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://github.com/AGORA_USERBOT) ☘️
 
 # <p align="center"> ITS ALL CREDITS GOES TO AGORA PROFESSOR. 
 # <p align="center"> USERNAME = [AGORA PROFESSOR](https://github.com/AGORASWAMY_PROFESSOR)
@@ -25,7 +25,7 @@
 # <p align="center"> [![String](https://te.legra.ph/file/d8ba77811625796729b82.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
 # <p align="center"> [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
-# <p align="center"> ☘️ [𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://t.me/AGORA_SPAM_OFFICIAL) ☘️
+# <p align="center"> ☘️ [𝗔𝗚𝗢𝗥𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://t.me/AGORA_USERBOT) ☘️
 
 # <p align="center"> Do U Face Any Problem Contact me Through Telegram
 
