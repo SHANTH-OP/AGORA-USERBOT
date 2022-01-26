@@ -1,8 +1,8 @@
 
 echo """
 
-Legendary PYTHONBOT
-@Python_Userbot_Support
+PROFESSOR'S AGORA-USERBOT
+@AGORA_USEEBOT
 """
 python3 string_session.py
 
