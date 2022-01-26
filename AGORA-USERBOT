@@ -33,7 +33,7 @@ _set_bot () {
     AGORAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  AGORA USERBOT V9.O.8 Cleaning.."
+    echo "  AGORA USERBOT Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $AGORAPATH
